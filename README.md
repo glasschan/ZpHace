@@ -102,6 +102,9 @@ In multilingual content, especially involving CJK characters mixed with English 
 
 ## Changelog
 
+### 1.1.1
+- Fixed an issue where image URLs were being altered, causing images to break.
+
 ### 1.1.0
 
 - Refactored the plugin for improved performance and efficiency.
